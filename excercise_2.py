@@ -1,5 +1,5 @@
 def questionify(string):
-    return (string + "?")
+    return (string + " ?")
 
 
 print(questionify("Elliot"))
