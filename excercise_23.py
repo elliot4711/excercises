@@ -24,5 +24,3 @@ def silly_decrypt(encrypted_string, shift):
     letters = "".join(letters)
     return letters
     
-print(silly_encrypt("elliot", 3))
-print(silly_decrypt("hoolrw", 3))
